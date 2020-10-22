@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ibrahimawadhamid/ibrahimawadhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ibrahim Awad 😎
 
-Here are some ideas to get you started:
+- 🔭 I currently work as a full stack software engineer
+- 📫 You can reach me on my email ibrahim.a.hamid@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ibrahimawadhamid&show_icons=true&hide_border=true&theme=radical" />
+
+<br />
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimawadhamid)
