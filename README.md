@@ -9,8 +9,4 @@ My name is Ibrahim Awad 😎
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ibrahimawadhamid&show_icons=true&hide_border=true&theme=radical" />
 
-<br />
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimawadhamid)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimawadhamid&layout=compact)
